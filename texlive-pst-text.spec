@@ -55,6 +55,7 @@ functionality of the old package pst-char.
 %doc %{_texmfdistdir}/doc/generic/pst-text/pst-text-doc.tex
 #- source
 %doc %{_texmfdistdir}/source/generic/pst-text/Makefile
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -65,3 +66,5 @@ functionality of the old package pst-char.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar dvips tex doc source %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
