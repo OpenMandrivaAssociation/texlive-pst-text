@@ -56,3 +56,17 @@ functionality of the old package pst-char.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar dvips tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.00-2
++ Revision: 755483
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.00-1
++ Revision: 719401
+- texlive-pst-text
+- texlive-pst-text
+- texlive-pst-text
+- texlive-pst-text
+
