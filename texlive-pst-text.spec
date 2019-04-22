@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version 1.00
 Name:		texlive-pst-text
-Version:	1.00
-Release:	12
+Version:	1.02
+Release:	1
 Summary:	Text and character manipulation in PSTricks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-text
