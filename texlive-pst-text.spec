@@ -1,6 +1,6 @@
 Name:		texlive-pst-text
 Version:	49542
-Release:	1
+Release:	2
 Summary:	Text and character manipulation in PSTricks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-text
