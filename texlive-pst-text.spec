@@ -3,7 +3,7 @@ Version:	49542
 Release:	2
 Summary:	Text and character manipulation in PSTricks
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-text
+URL:		https://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-text
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-text.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-text.doc.r%{version}.tar.xz
